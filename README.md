@@ -8,3 +8,9 @@ When I started this coding journey in late 2018, I didn't know where it would ta
 
 
 For me, "coding" is any deliberate learning which could include actual coding, watching videos/tutorials, getting environment set up, reading about coding or related topics, etc. Sometimes you can get distracted when coding but if I realized I got distracted for any significant amount of time I would subtract an estimated amount off of my coding time. Also, there are plenty of coding times that are not included in these hours. 
+
+
+
+
+TODO: Add waterfall chart -->
+https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb
