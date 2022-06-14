@@ -1,6 +1,11 @@
 # 10,000 Hours
-**[10000Hours.ipynb](10000Hours.ipynb)**
+View on github: **[10000Hours.ipynb](10000Hours.ipynb)**
 
+or
+
+Use nbviewer:  **[https://nbviewer.org/github/dfreeman500/10000-Hours/blob/master/10000Hours.ipynb](https://nbviewer.org/github/dfreeman500/10000-Hours/blob/master/10000Hours.ipynb)**
+
+#
 Many people have heard of Malcolm Gladwell's book -- Outliers which popularized the 10,000 hour rule. The 10,000 hour rule indicates that experts become experts because of massive amounts of deliberate practice. Gladwell makes the case that 10,000 hours seems to be the time period it takes to become an expert.
 
 
@@ -12,5 +17,3 @@ For me, "coding" is any deliberate learning which could include actual coding, w
 
 
 
-TODO: Add waterfall chart -->
-https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb
