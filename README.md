@@ -17,3 +17,5 @@ For me, "coding" is any deliberate learning which could include actual coding, w
 
 
 
+#
+Thanks to: https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb for a great tutorial on waterfall charts in plotly
