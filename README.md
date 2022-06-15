@@ -18,6 +18,9 @@ For me, "coding" is any deliberate learning which could include actual coding, w
 
 
 #
-Thanks to: https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb for a great tutorial on waterfall charts in plotly (see example below - which doesn't seem to be viewable on github as it uses plotly)
+Some resources for waterfall chart with plotly:  
+https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb  
+ https://plotly.com/python/waterfall-charts/
+(see example below - which doesn't seem to be viewable on github as it uses plotly)
 
 ![Waterfall Chart](images/newplot.png) 
