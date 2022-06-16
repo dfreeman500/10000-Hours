@@ -1,9 +1,5 @@
 # 10,000 Hours
-View on github: **[10000Hours.ipynb](10000Hours.ipynb)**
-
-or
-
-Use nbviewer:  **[https://nbviewer.org/github/dfreeman500/10000-Hours/blob/master/10000Hours.ipynb](https://nbviewer.org/github/dfreeman500/10000-Hours/blob/master/10000Hours.ipynb)**
+**[View on Github](10000Hours.ipynb)** or **[Use nbviewer](https://nbviewer.org/github/dfreeman500/10000-Hours/blob/master/10000Hours.ipynb)**
 
 #
 Many people have heard of Malcolm Gladwell's book -- Outliers which popularized the 10,000 hour rule. The 10,000 hour rule indicates that experts become experts because of massive amounts of deliberate practice. Gladwell makes the case that 10,000 hours seems to be the time period it takes to become an expert.
